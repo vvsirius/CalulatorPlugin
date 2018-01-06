@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalculatorAnnotations/CalculatorAnnotations.iml" filepath="$PROJECT_DIR$/CalculatorAnnotations/CalculatorAnnotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalulatorPlugin.iml" filepath="$PROJECT_DIR$/CalulatorPlugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Plugin/Plugin.iml" filepath="$PROJECT_DIR$/Plugin/Plugin.iml" />
+    </modules>
+  </component>
+</project>
